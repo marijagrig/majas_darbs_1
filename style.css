@@ -13,7 +13,7 @@ li
 .game{
     width: 350px;
     background: black;
-    align: center;
+    box-align: center;
     
 }
 
